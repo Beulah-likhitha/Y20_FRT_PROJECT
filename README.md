@@ -33,6 +33,15 @@ MediConnect aims to revolutionize healthcare delivery by providing a unified pla
 
 # Sample images of the project :
 
+![image](https://github.com/Beulah-likhitha/Y20_FRT_PROJECT/assets/96165465/1df308ec-2b51-49f7-9a2c-c21501699bd1)
+![image](https://github.com/Beulah-likhitha/Y20_FRT_PROJECT/assets/96165465/6d4c63e3-377b-41ac-a553-27c5264eb255)
+![image](https://github.com/Beulah-likhitha/Y20_FRT_PROJECT/assets/96165465/939ce04d-272e-493e-aee0-cdefbcdcceeb)
+![image](https://github.com/Beulah-likhitha/Y20_FRT_PROJECT/assets/96165465/0242c85d-8ad4-4e71-88f5-4836a6b3e03d)
+![image](https://github.com/Beulah-likhitha/Y20_FRT_PROJECT/assets/96165465/189a007e-152e-4ad3-92cb-1c5e347413da)
+
+
 
 
 # Result: 
+![image](https://github.com/Beulah-likhitha/Y20_FRT_PROJECT/assets/96165465/60abac30-6074-4acf-935b-6e08f9fded19)
+
