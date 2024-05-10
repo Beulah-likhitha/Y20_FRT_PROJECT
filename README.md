@@ -29,7 +29,7 @@ For seamless deployment and accessibility, Static Web Apps within Azure were uti
 
 MediConnect aims to revolutionize healthcare delivery by providing a unified platform for personalized medical assistance, secure access to healthcare resources, and seamless collaboration among healthcare professionals, ultimately enhancing patient care outcomes and improving overall healthcare accessibility.
 
-# Project Link:
+# Project Link: https://red-bay-0e3969b10.5.azurestaticapps.net/
 
 # Sample images of the project :
 
